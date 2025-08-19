@@ -16,3 +16,7 @@ Dieses Projekt habe ich als Übung erstellt, um mit Benutzereingaben, Kontrollst
 Falls du den Code selbst ausführen möchtest:
 ```bash
 dotnet run
+
+## 💾 Fertige Version
+👉 [Download (ZIP)](https://github.com/Maelitsch/MalicCalculator/releases/download/v1.0/MalicCalculator-win64.zip)
+
