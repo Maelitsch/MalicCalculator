@@ -18,5 +18,5 @@ Falls du den Code selbst ausführen möchtest:
 dotnet run
 
 ## 💾 Fertige Version
-👉 [Download (ZIP)](https://github.com/Maelitsch/MalicCalculator/releases/download/v1.0/MalicsTaschenRechner.zip)
+👉 [Download (ZIP)](https://github.com/Maelitsch/MalicCalculator/releases/download/v1.0.0/MalicsTaschenRechner.zip)
 
