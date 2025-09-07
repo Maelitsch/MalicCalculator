@@ -1,7 +1,7 @@
 # Malic While Calculator 🧮
 
 Ein kleiner Konsolen-Taschenrechner in **C#**.  
-Dieses Projekt habe ich als Übung erstellt, um mit Benutzereingaben, Kontrollstrukturen und Fehlerbehandlung in C# zu arbeiten.  
+Dieses Projekt habe ich als Übung erstellt.  
 
 ---
 
