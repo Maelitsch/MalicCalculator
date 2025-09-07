@@ -2,6 +2,7 @@
 
 Ein kleiner Konsolen-Taschenrechner in **C#**.  
 Dieses Projekt habe ich als Übung erstellt.  
+Entpacke die ZIP, sonst lässt sich die .exe nicht starten.
 
 ---
 
